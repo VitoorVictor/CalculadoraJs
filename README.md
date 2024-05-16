@@ -1,6 +1,6 @@
 # Calculadora Simples
 
-Este é um projeto de uma calculadora simples desenvolvida como parte de um trabalho para a disciplina de [Programação para Internet] na [Unipar]. A calculadora foi implementada utilizando [HTML, CSS e JavaScript].
+Este é um projeto de uma calculadora simples desenvolvida como parte de um trabalho para a disciplina de Programação para Internet na Unipar. A calculadora foi implementada utilizando HTML, CSS e JavaScript.
 
 ## Objetivo
 
@@ -26,14 +26,6 @@ A calculadora implementada possui as seguintes funcionalidades:
 ## Estrutura do Projeto
 
 A estrutura do projeto é a seguinte:
-
-calculadora/
-│
-│── img
-├── index.html
-├── style.css
-└── script.js
-
 
 - `index.html`: O arquivo HTML que contém a estrutura da calculadora.
 - `style.css`: O arquivo CSS que estiliza a aparência da calculadora.
